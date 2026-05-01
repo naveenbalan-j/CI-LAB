@@ -1,5 +1,5 @@
 Script started on Wed Mar  4 16:25:12 2026
-[23bcs099@mepcolinux Ex5]$cat wumpus2.py
+[23bcs109@mepcolinux Ex5]$cat wumpus2.py
 import random
 
 board = []
@@ -367,7 +367,7 @@ def play():
 
 if __name__ == "__main__":
     play()
-[23bcs099@mepcolinux Ex5]$python3 wumpus2.py
+[23bcs109@mepcolinux Ex5]$python3 wumpus2.py
 === Custom Wumpus Map Setup ===
 Enter grid size N (default 4): 4
 Map Generation: (M)anual or (R)andom? M
@@ -530,7 +530,7 @@ Goal:     Reach the Gold.
   ----------------------------------------
 
   You found the GOLD! YOU WIN!
-[23bcs099@mepcolinux Ex5]$python3 wumpus2.py
+[23bcs109@mepcolinux Ex5]$python3 wumpus2.py
 === Custom Wumpus Map Setup ===
 Enter grid size N (default 4): 4
 Map Generation: (M)anual or (R)andom? M
@@ -715,7 +715,7 @@ Goal:     Reach the Gold.
   ----------------------------------------
 
   You found the GOLD! YOU WIN!
-[23bcs099@mepcolinux Ex5]$exit
+[23bcs109@mepcolinux Ex5]$exit
 exit
 
 Script done on Wed Mar 4 16:28:11 2026
