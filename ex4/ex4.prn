@@ -1,5 +1,5 @@
 Script started on Wed Mar  4 15:56:50 2026
-[23bcs099@mepcolinux ex4]$cat decision_tree.py
+[23bcs109@mepcolinux ex4]$cat decision_tree.py
 import math
 import random
 
@@ -203,7 +203,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-[23bcs099@mepcolinux ex4]$python3 decision_tree.py 
+[23bcs109@mepcolinux ex4]$python3 decision_tree.py 
 
 Dataset loaded with 200 records.
 Enter number of records for random sampling: 15
@@ -291,7 +291,7 @@ Gain = 0.2008
     \-- High --> [Class: Yes]
 
 ==============================================================
-[23bcs099@mepcolinux ex4]$exit
+[23bcs109@mepcolinux ex4]$exit
 exit
 
 Script done on Wed Mar  4 15:57:13 2026
