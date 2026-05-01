@@ -1,5 +1,5 @@
 Script started on Wed Apr  8 15:28:50 2026
-[23bcs099@mepcolinux ex8]$cat random_forest.py 
+[23bcs109@mepcolinux ex8]$cat random_forest.py 
 import pandas as pd
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split, cross_validate, StratifiedKFold
@@ -124,7 +124,7 @@ Actual Class 1             5            96
 
 -------------------------------------------------------------------------------------------
 
-[23bcs099@mepcolinux ex8]$exit
+[23bcs109@mepcolinux ex8]$exit
 exit
 
 Script done on Wed Apr  8 15:28:54 2026
