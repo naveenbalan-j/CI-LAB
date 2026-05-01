@@ -1,5 +1,5 @@
 Script started on Wed Apr  1 15:51:32 2026
-[23bcs099@mepcolinux ex7]$cat perceptron.py 
+[23bcs109@mepcolinux ex7]$cat perceptron.py 
 import itertools
 
 def get_target(inputs, gate_choice, is_bipolar):
@@ -92,7 +92,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-[23bcs099@mepcolinux ex7]$python3 perceptron.py 
+[23bcs109@mepcolinux ex7]$python3 perceptron.py 
 Input mode (1: Binary, 2: Bipolar): 2
 Number of inputs: 2
 Logic gate (1: AND, 2: OR, 3: AND-NOT): 1
@@ -140,7 +140,7 @@ x1      x2      t       w1      w2      b       yin     y
 
 Training Complete!
 Final:  w1=0.3  w2=0.2  b=-0.4
-[23bcs099@mepcolinux ex7]$python3 perceptron.py 
+[23bcs109@mepcolinux ex7]$python3 perceptron.py 
 Input mode (1: Binary, 2: Bipolar): 1
 Number of inputs: 2
 Logic gate (1: AND, 2: OR, 3: AND-NOT): 2
@@ -161,7 +161,7 @@ x1      x2      t       w1      w2      b       yin     y
 
 Training Complete!
 Final:  w1=0.3  w2=0.2  b=0.4
-[23bcs099@mepcolinux ex7]$exit
+[23bcs109@mepcolinux ex7]$exit
 exit
 
 Script done on Wed Apr  1 15:52:29 2026
