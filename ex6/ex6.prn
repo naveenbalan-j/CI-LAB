@@ -1,5 +1,5 @@
 Script started on Wed Mar 25 16:25:14 2026
-[23bcs099@mepcolinux ex6]$cat arithmetic.pl
+[23bcs109@mepcolinux ex6]$cat arithmetic.pl
 % ============================================================
 % Prolog Program: Combination of Simple Arithmetic & Set Theory
 % ============================================================
@@ -113,7 +113,7 @@ R = 4.
 Error: Division by zero
 false.
 
-[23bcs099@mepcolinux ex6]$cat pizza_hut.pl 
+[23bcs109@mepcolinux ex6]$cat pizza_hut.pl 
 :- dynamic menu_item/2.
 
 % ----------- Initial menu -----------
@@ -266,7 +266,7 @@ Grand Total: 820
 Thank you for ordering!
 true.
 
-[23bcs099@mepcolinux ex6]$cat blood_relation.pl 
+[23bcs109@mepcolinux ex6]$cat blood_relation.pl 
 % Prevent warnings if facts are scattered
 :- discontiguous male/1.
 :- discontiguous female/1.
@@ -361,7 +361,7 @@ S = harilal_gandhi ;
 S = ramdas_gandhi ;
 S = devdas_gandhi .
 
-[23bcs099@mepcolinux ex6]$exit
+[23bcs109@mepcolinux ex6]$exit
 exit
 
 Script done on Wed Mar 25 16:25:30 2026
